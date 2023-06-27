@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "YouTube Embed Shortcode Plugin",
-    "description": "This plugin introduces a YouTube shortcode to your micro.blog, enabling you to showcase your YouTube videos using an embedded player. By employing the format {{< youtube \"VIDEO_ID\" >}}, you can seamlessly incorporate an embedded YouTube Player into your blog posts. The development of this functionality is rooted in the works of Steve Layton, as seen at https://github.com/shindakun/mbplugin-bandcamp/",
+    "description": "This plugin introduces a YouTube shortcode to your micro.blog, enabling you to showcase your YouTube videos using an embedded player. By employing the format {{< youtube VIDEO_ID >}}, you can seamlessly incorporate an embedded YouTube Player into your blog posts. The development of this functionality is rooted in the works of Steve Layton, as seen at https://github.com/shindakun/mbplugin-bandcamp/",
     "includes": [
       "youtube.html"
     ],
