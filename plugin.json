@@ -1,5 +1,12 @@
 {
     "version": "1.0.0",
     "title": "YouTube Shortcode",
-    "description": "Adds a YouTube shortcode to your micro.blog. Based on the works of Shindakun on https://github.com/shindakun/mbplugin-bandcamp/"
+    "description": "Adds a YouTube shortcode to your micro.blog. Based on the works by Steve Layton on https://github.com/shindakun/mbplugin-bandcamp/"
+    "fields": [
+      {
+        "field": "params.youtube_video_class",
+        "label": "(Optional) Custom CSS Class",
+        "placeholder": "Custom CSS class name"
+      }
+    ]
   }
